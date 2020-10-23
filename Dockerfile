@@ -1,0 +1,3 @@
+FROM openjdk:15
+
+USER 1000:1000
