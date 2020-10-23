@@ -2,9 +2,7 @@
   "extends": [
     "config:base"
   ],
-  {
   "schedule": [
     "before 2am"
   ]
-}
 }
