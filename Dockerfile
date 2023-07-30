@@ -1,3 +1,3 @@
-FROM openjdk:15
+FROM openjdk:17.0.2
 
 USER 1000:1000
